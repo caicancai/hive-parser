@@ -1,7 +1,7 @@
 package org.apache.hadoop.hive.ql.parser;
 
-import org.apache.hadoop.hive.ql.parse.ParseDriver;
-import org.apache.hadoop.hive.ql.parse.ParseException;
+import org.apache.hadoop.hive.sql.parse.ParseDriver;
+import org.apache.hadoop.hive.sql.parse.ParseException;
 
 public class test {
 
